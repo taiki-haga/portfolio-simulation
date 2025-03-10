@@ -1,0 +1,7 @@
+name = "portfolio-simulation"
+uuid = "1de031ff-6742-416e-89c8-cf6a7004ee17"
+version = "0.1.0"
+
+[deps]
+PlutoUI = "7f904dfe-b85e-4ff6-b463-dae2292396a8"
+PyPlot  = "d330b81b-6aea-500a-939a-2ce795aea3ee"
