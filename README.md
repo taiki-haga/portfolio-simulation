@@ -27,7 +27,7 @@
 1. **Juliaのインストール**
     - [Julia公式サイト](https://julialang.org/)から最新の安定版をダウンロード＆インストールしてください。
 2. **このリポジトリをクローン or ダウンロード**
-    - ターミナルで `git clone <https://github.com/taiki-haga/portfolio-simulation.git>`
+    - ターミナルで `git clone https://github.com/taiki-haga/portfolio-simulation.git`
     - あるいは GitHub 上の「Code」→「Download ZIP」からダウンロードします。
 3. **パッケージの準備**
     - Juliaを起動してパッケージモード(`]`)に入り、必要なパッケージを追加します:
