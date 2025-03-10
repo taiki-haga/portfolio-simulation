@@ -33,7 +33,7 @@
     - Juliaを起動してパッケージモード(`]`)に入り、必要なパッケージを追加します:
       
         ```julia
-        ] add Pluto PlutoUI Statistics PyPlot
+        ] add Pluto PlutoUI PyPlot
         
         ```
         
